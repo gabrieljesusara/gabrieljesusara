@@ -21,101 +21,64 @@
 
 
 
+<h1 align="center">Hey 👋GABRIEL JESUS</h1>
+
 <p align="center">
   <img src="https://giffiles.alphacoders.com/120/120412.gif" width="300">
 </p>
 
+###
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=86&duration=3000&pause=1221&color=49F728&center=true&vCenter=true&width=4800&height=200&lines=%F0%9F%87%A7%F0%9F%87%B7+Bem-vindo+%C3%A0+zona+onde+a+seguran%C3%A7a+morre+e+o+caos+reina.+Aqui%2C+invadir+%C3%A9+lei.+;%F0%9F%87%BA%F0%9F%87%B8+Welcome+to+the+zone+where+security+dies+and+chaos+rules.+Here%2C+intrusion+is+law.;%F0%9F%87%B7%F0%9F%87%BA+%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%B7%D0%BE%D0%BD%D1%83%2C+%D0%B3%D0%B4%D0%B5+%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C+%D1%83%D0%BC%D0%B8%D1%80%D0%B0%D0%B5%D1%82%2C+%D0%B0+%D1%85%D0%B0%D0%BE%D1%81+%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82.+%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%B2%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%E2%80%94+%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD.)](https://git.io/typing-svg)
+
+
+
+
+
+###
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br><br>
 
-
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=🇧🇷;+SEJAM+BEM+VINDOS!;+ME+CHAMO+GABRIEL+JESUS;🇺🇸;+WELCOME,+I'M+GABRIEL+JESUS!;&color=00F791FF"/>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-
-
-<h4 align="center">
-  
-   &nbsp;&nbsp; Cybersecurity and Pentest Enthusiast. <br>
+    
+ <a href="https://linkedin.com/in/ogabrieljesus" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Jesus"/>
+ </a>
+    
  
-  &nbsp;&nbsp; Cyber Defense Student. <br>
+ <a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Gabriel Jesus" />
+ </a>
+ 
   
-   &nbsp;&nbsp; Passionate about exploring vulnerabilities and Linux automation
-
-   &nbsp;&nbsp; Looking to contribute to open-source projects focused on privacy and security
-
-</h4>
-
 </p>
 
+<br />
+
+###
+
+
+###
 
 
 
-<div align="center"><br>  
 
-<a href="https://www.linkedin.com/in/ogabrieljesus/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
-</a>
+###
 
-</div>
+
+###
 
 
 
-<div align="center">
+###
+###
 
-<h3>🛠️ Skills</h3>
+###
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="vscoce" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" alt="sublimetext" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" alt="Angolar js" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="android" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="50">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="html5" width="50">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="css3" width="50">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" alt="ubuntu" width="50">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" alt="C" width="50">
-
-</div></div>
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br><br>
-
-
-<div align="center">
-
-<h3>📈 Estatísticas do GitHub </h3>
+###
 
 <p align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-</p>
-
-</div>
-
-
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br><br>
-
-
-
-<div align="center">
-
-<h3>GOOOOOOOD BYEEEEEE</h3>
-
-<p align="center">
-
  <br><br><img src="https://wetgif.com/wp-content/uploads/big-tits-4.gif" width="300"><br><br>
-
-
 </p>
 
-</div>
+###
